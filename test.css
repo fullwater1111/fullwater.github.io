@@ -1,0 +1,8 @@
+.aaaaa {
+    
+    background: url("../img/bg.png");
+    background-size:cover ;  
+}
+.ime :hover{
+    opacity:0.1;
+}
